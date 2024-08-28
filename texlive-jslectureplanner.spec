@@ -1,6 +1,6 @@
 Name:		texlive-jslectureplanner
-Version:	57095
-Release:	2
+Version:	70443
+Release:	1
 Summary:	Creation and management of university course material
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jslectureplanner
