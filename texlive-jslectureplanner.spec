@@ -3,7 +3,7 @@ Version:	70443
 Release:	1
 Summary:	Creation and management of university course material
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jslectureplanner
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jslectureplanner
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jslectureplanner.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jslectureplanner.doc.r%{version}.tar.xz
